@@ -37,6 +37,10 @@ To get started with LumoLines, follow these steps:
    npm install
    ```
 
+   ```bash
+   npm install @reduxjs/toolkit react-redux react-router-dom appwrite @tinymce/tinymce-react html-react-parser react-hook-form
+   ```
+
 3. **Configure Backend**: Set up and configure the Appwrite backend according to the project requirements.
 
 4. **Start the Development Server**: Once dependencies are installed and the backend is configured, start the development server by running:
